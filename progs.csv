@@ -53,7 +53,7 @@ A,abook,is an offline addressbook usable by neomutt.
 ,xorg-xbacklight,enables changing screen brightness levels.
 A,zsh-fast-syntax-highlighting,provides syntax highlighting in the shell.
 A,zsh-autosuggestions,provides autosuggestion in the shell.
-A,texlive-full,is a pdf compiler.
+A,texlive-most,is a pdf compiler.
 A,dropbox,is a file-sharing tool.
 A,fcitx,is a for language input.
 A,fcitx-configtool,is for configuring fcitx.
