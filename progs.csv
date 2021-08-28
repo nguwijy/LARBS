@@ -3,8 +3,10 @@
 ,xorg-xwininfo,allows querying information about windows.
 ,xorg-xinit,starts the graphical server.
 ,ttf-linux-libertine,provides the sans and serif fonts for LARBS.
+A,wqy-microhei,is the font for chinese character.
 A,nerd-fonts-complete,is for the emoji.
 A,lf-git,is an extensive terminal file manager that everyone likes.
+A,ueberzug,is for image display in lf.
 ,bc,is used for a dropdown calculator.
 ,xcompmgr,is for transparency and removing screen-tearing.
 ,xorg-xprop,is a tool for detecting window properties.
