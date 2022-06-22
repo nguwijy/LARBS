@@ -1,0 +1,10 @@
+# run `python -m pip install --no-cache-dir --user -r python_packages.txt`
+black
+matplotlib
+notebook
+numpy
+pandas
+pywal
+scipy
+torch
+yalafi

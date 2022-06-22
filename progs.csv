@@ -63,6 +63,7 @@ A,fcitx-googlepinyin,is for googlepinyin in fcitx.
 A,picom-git,is for transparency.
 A,r,is for R language.
 A,python,is for python language.
+A,python-pip,is for managing packages in python.
 A,teams,is a video-calling tool.
 A,task-spooler,queues commands or files for download.
 A,simple-mtpfs,enables the mounting of cell phones.
@@ -75,19 +76,3 @@ A,mutt-wizard-git,is a light-weight terminal-based email system.
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
 ,socat,is a utility which establishes two byte streams and transfers data between them.
 A,pycharm-eap,is an IDE for python.
-A,python-black,is for packages in python.
-A,python-httplib2,is for packages in python.
-A,python-matplotlib,is for packages in python.
-A,python-numpy,is for packages in python.
-A,python-oauth2client,is for packages in python.
-A,python-pandas,is for packages in python.
-A,python-pip,is for packages in python.
-A,python-pytorch,is for packages in python.
-A,python-pywal,is for packages in python.
-A,python-scipy,is for packages in python.
-A,python-tensorflow,is for packages in python.
-A,python-tqdm,is for packages in python.
-A,python-yalafi,is for packages in python.
-A,steam,is a gaming platform.
-A,steam-fonts,is for the fonts in steam.
-A,proton,is for emulating windows environment for steam.
