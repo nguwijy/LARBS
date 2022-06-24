@@ -74,6 +74,7 @@ G,https://github.com/nguwijy/dmenu.git,runs commands and provides a UI for selec
 G,https://github.com/nguwijy/st.git,is my custom build of suckless's terminal emulator.
 G,https://github.com/nguwijy/dwm.git,is the window manager.
 A,mutt-wizard-git,is a light-weight terminal-based email system.
+A,urlview-xdg-git,is usef in mutt-wizard for viewing url.
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
 ,socat,is a utility which establishes two byte streams and transfers data between them.
 A,pycharm-eap,is an IDE for python.
