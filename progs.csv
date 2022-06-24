@@ -53,7 +53,7 @@ A,abook,is an offline addressbook usable by neomutt.
 ,atool,manages and gives information about archives.
 ,fzf,is a fuzzy finder tool.
 ,highlight,can highlight code output.
-,xorg-xbacklight,enables changing screen brightness levels.
+,acpilight,enables changing screen brightness levels.
 A,zsh-fast-syntax-highlighting,provides syntax highlighting in the shell.
 A,zsh-autosuggestions,provides autosuggestion in the shell.
 A,texlive-most,is a pdf compiler.
