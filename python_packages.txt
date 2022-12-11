@@ -8,3 +8,11 @@ pywal
 scipy
 torch
 yalafi
+pynverse
+scipy
+sympy
+tensorflow
+pynvim
+
+# torch with cuda113
+--extra-index-url https://download.pytorch.org/whl/cu113 torch==1.11.0+cu113
